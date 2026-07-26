@@ -1,4 +1,4 @@
-# Hi, I'm Hugo Moreira 👋
+#  I'm Hugo  
 
 I'm a full-stack developer based in Portland, Oregon, building developer tools, automation systems, SaaS applications, mobile products, and interactive web experiences.
 
