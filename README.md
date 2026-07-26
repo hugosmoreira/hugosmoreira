@@ -1,16 +1,8 @@
 # Hi, I'm Hugo Moreira 👋
 
-I'm a full-stack developer based in Portland, Oregon, building developer tools, AI products, automation systems, SaaS applications, and interactive web experiences.
+I'm a full-stack developer based in Portland, Oregon, building developer tools, automation systems, SaaS applications, mobile products, and interactive web experiences.
 
-My main focus is creating useful, production-ready software with modern JavaScript and TypeScript technologies.
-
-## Current Focus
-
-- Contributing to established open-source projects
-- Building AI-powered applications and automation tools
-- Developing full-stack web and mobile products
-- Improving accessibility, testing, security, and developer experience
-- Exploring browser-based games and interactive 3D experiences
+My main stack is TypeScript, JavaScript, React, Next.js, Vite, Node.js, Supabase, and PostgreSQL.
 
 ## Open-Source Work
 
@@ -27,30 +19,22 @@ My main focus is creating useful, production-ready software with modern JavaScri
 
 `Supabase` · `PostgreSQL` · `React Native` · `GitHub Actions` · `Rust`
 
-## Engineering Interests
+## Areas of Interest
 
 - Open-source software
-- AI agents and automation
 - Full-stack product development
 - Developer tooling
+- Automation
 - Web accessibility
 - Application security
-- Civic and community technology
+- Mobile development
 - Browser games and Three.js
-
-## How I Work
-
-- I focus on practical software that solves real problems
-- I write tests and validate changes before submitting them
-- I care about accessibility, privacy, security, and maintainability
-- I use AI as an engineering tool while reviewing and understanding the final implementation
-- I enjoy learning unfamiliar codebases and contributing fixes, documentation, and features
 
 ## Connect
 
-- GitHub: [@hugosmoreira](https://github.com/hugosmoreira)
 - X: [@hugoscode](https://x.com/hugoscode)
+- Based in Portland, Oregon
 
 ## Opportunities
 
-I'm open to software engineering roles, open-source collaboration, and interesting product-development opportunities.
+I'm open to software engineering roles, open-source collaboration, and product-development opportunities.
