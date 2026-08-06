@@ -25,7 +25,7 @@ My main stack is TypeScript, JavaScript, React, Next.js, Vite, Node.js, Supabase
 
 ## Connect
 
-- X: [@hugoscode](https://x.com/hugoscode)
+
 
 ## Opportunities
 
